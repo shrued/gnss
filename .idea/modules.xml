@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Gnss-selection-master-GnssAgent-master.iml" filepath="$PROJECT_DIR$/.idea/modules/Gnss-selection-master-GnssAgent-master.iml" group="GnssAgent-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/GnssAgent-master.iml" filepath="$PROJECT_DIR$/.idea/GnssAgent-master.iml" group="GnssAgent-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GnssAgent-master-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GnssAgent-master-app.iml" group="GnssAgent-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="GnssAgent-master/app" />
+    </modules>
+  </component>
+</project>
